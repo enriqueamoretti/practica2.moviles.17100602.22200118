@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "445336528404",
+    "project_id": "dampc2amoretti",
+    "storage_bucket": "dampc2amoretti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445336528404:android:1b48b12dcea548630e6901",
+        "android_client_info": {
+          "package_name": "dev.eamoretti.dampc2amoretti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTM5nRV5qOfCQVWbumxM9GzqKXpyKjiKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445336528404:android:46f074553e9c8fe30e6901",
+        "android_client_info": {
+          "package_name": "dev.eamoretti.practica2moviles17100602"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTM5nRV5qOfCQVWbumxM9GzqKXpyKjiKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445336528404:android:87ee12ddf453447a0e6901",
+        "android_client_info": {
+          "package_name": "dev.eamoretti.practica2moviles1710060222200118"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTM5nRV5qOfCQVWbumxM9GzqKXpyKjiKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
